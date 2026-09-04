@@ -67,3 +67,6 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+/.vs/InchToCm.slnx/v18
+/InchToCm/x64/Debug
+.vs/

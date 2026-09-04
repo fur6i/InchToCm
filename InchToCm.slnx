@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="InchToCm.vcxproj" Id="50ea9626-f678-4a6d-8419-edc614c099ed" />
+</Solution>
